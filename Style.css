@@ -1,0 +1,30 @@
+body {
+    background-color: skyblue;
+    padding: 0%;
+    border: indigo;
+}
+.welcome h1{
+    background-color: tomato;
+}
+.Read h2{
+    background-color: violet;
+    width: 500px;
+}
+#language h2{
+    background-color: red;
+    width: 500px;
+}
+.nextPage button{
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+.std{
+    background-color: lawngreen;
+}
+.btn button{
+    background-color: lightgreen;
+    width: 500px;
+    height: 50px;
+}
